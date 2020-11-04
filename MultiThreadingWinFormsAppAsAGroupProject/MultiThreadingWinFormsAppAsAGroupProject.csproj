@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -66,7 +69,7 @@
     <Compile Include="FantasticBeastsNotUsed\MuscularMoose.cs" />
     <Compile Include="FantasticBeastsNotUsed\PassionatePanda.cs" />
     <Compile Include="FantasticBeastsNotUsed\PeacefulPenguin.cs" />
-    <Compile Include="FantasticBeastsNotUsed\PropitiousParakeet.cs" />
+    <Compile Include="FantasticBeasts\PropitiousParakeet.cs" />
     <Compile Include="FantasticBeastsNotUsed\RapaciousRobin.cs" />
     <Compile Include="FantasticBeastsNotUsed\ReasonableRaccoon.cs" />
     <Compile Include="FantasticBeastsNotUsed\SpuriousSwallow.cs" />
